@@ -1,0 +1,94 @@
+{
+  "title": "Whispering Hooves",
+  "subtitle": {
+    "fr": "Sac en peau fait main par Caroline Labataille",
+    "eng": "Hand made leather bags by Caroline Labataille"
+  },
+  "nav": {
+    "fr": ["Démarche", "Collection", "Presse", "Contact"],
+    "eng": ["Intention", "Collection", "Press", "Contact"]
+  },
+  "intention": {
+    "title": {
+      "fr": "Démarche",
+      "eng": "Intentions"
+    },
+    "text": {
+      "fr": [
+        "Whispering Hooves est né il y a peu.",
+        "Son nom : «le murmure des sabots», «les sabots chuchotant», en français, exprime la relation étroite, vivante et vibrante entre chaque animal dont j'utilise la peau et chaque sac qu’avec elle, je crée. Ce nom est ma reconnaissance infinie à ces animaux.",
+        "En moi, le désir de créer ces objets est ancien. Chaque pièce est unique, et c'est ce que j'aime : ainsi se fonde cette relation unique entre un animal, sa peau, un sac et la personne à qui ira ce sac.",
+        "Mon attirance pour la culture Amérindienne remonte à loin ; Whispering Hooves en est un écho, tout comme lui répond la part d’inspiration qu’elle éveille en moi. L’autre source de mon inspiration naît de la nature et de l'univers, sans lesquels nous ne serions pas et au sein desquels nous vivons.",
+        "La peau de cerf et les techniques utilisées pour orner sont elles aussi en lien avec la culture Amérindienne. Chaque pièce est entièrement réalisée par mes mains et au rythme de mon coeur, en France. Les peaux de cerf proviennent des États-Unis. Les turquoises et perles en argent massif de l'état du Nouveau Mexique aux Étas Unis, les perles de verre sont manufacturées en Europe.",
+        "Puissent les sabots de l'animal continuer de murmurer une douce danse à travers chaque sac, pour Vous..."
+      ],
+      "eng": [
+        "Whispering Hooves was born very recently.",
+        "The name puts into words the intimate, vibrating relationship between each animal whose hide I use and the bag I create from it. The name also conveys my infinite gratitude to those animals.",
+        "The desire to create these objects dwelled in my heart for a long time. Each piece is unique and that is what I cherish. A tight bond develops between an animal, its hide, a bag and the person who wears it.",
+        "My fondness for the Native American culture goes back a long way; ‘Whispering Hooves’ echoes it, as well as the inspiration it has awakened inside of me. My other sources of inspiration are nature and the universe, without which we would not exist and in which we live.",
+        "These handbags and purses are mostly hand crafted in deer hide and the techniques used to sew and decorate them are, as is the hide, related to the Native American culture. Each piece is entirely crafted by my hands to the rythm of my heart, in France. The deer hides come from the USA. The turquoises and the sterling silver beads come from the state of New Mexico, in USA. The glass beads are manufactured in eastern Europe.",
+        "May the animal’s hooves go on whispering a gentle dance with each handbag, for You ..."
+      ]
+    },
+    "picture": "caroline.jpg"
+  },
+  "collection": {
+    "title": {
+      "fr": "Collection",
+      "eng": "Collection"
+    },
+    "bags": [
+      ["bag0/0.jpg", "bag0/1.jpg"],
+      ["bag1/0.jpg", "bag1/1.jpg"],
+      ["bag2/0.jpg", "bag2/2.jpg", "bag2/3.jpg", "bag2/1.jpg", "bag2/4.jpg"],
+      ["bag3/0.jpg", "bag3/3.jpg", "bag3/1.jpg", "bag3/2.jpg"],
+      ["bag4/0.jpg"],
+      ["bag5/0.jpg", "bag5/1.jpg"],
+      ["bag6/0.jpg", "bag6/1.jpg"],
+      ["bag7/0.jpg"],
+      ["bag8/0.jpg", "bag8/1.jpg"],
+      ["bag9/0.jpg", "bag9/1.jpg", "bag9/2.jpg"],
+      ["bag10/0.jpg"],
+      ["bag11/0.jpg"],
+      ["bag12/0.jpg", "bag12/1.jpg"],
+      ["bag13/0.jpg"],
+      ["bag14/0.jpg", "bag14/1.jpg"],
+      ["bag15/0.jpg", "bag15/1.jpg", "bag15/2.jpg"],
+      ["bag16/0.jpg", "bag16/1.jpg"],
+      ["bag17/0.jpg", "bag17/1.jpg"],
+      ["bag18/0.jpg"],
+      ["bag19/0.jpg"]
+    ]
+  },
+  "press": {
+    "title": {
+      "fr": "Presse",
+      "eng": "Press"
+    },
+    "journals": [
+      {
+        "title": "Elle",
+        "date": "07/2011",
+        "scans": ["elle0.jpg", "elle1.jpg"]
+      },
+      {
+        "title": "Merci",
+        "date": "05/2014",
+        "scans": ["merci0.jpg"]
+      },
+      {
+        "title": "Le journal de la maison",
+        "date": "06/2016 - 07/2016",
+        "scans": ["maison0.jpg", "maison1.jpg", "maison2.jpg"]
+      }
+    ]
+  },
+  "contact": {
+    "text": {
+      "fr": "Je réalise sur commande des sacs en fonction de vos besoins et de vos projets",
+      "eng": "I handcraft bags to suit your needs and various projects"
+    },
+    "email": "contact@whispering-hooves.com"
+  }
+}

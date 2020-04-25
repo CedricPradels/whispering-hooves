@@ -1,0 +1,64 @@
+.collection {
+  padding: 50px 300px;
+  font-family: var(--font2);
+}
+
+.collection .title {
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 35px;
+  display: flex;
+}
+
+.collection .title .text {
+  margin: 0 10px;
+}
+
+.collection .title .hrule {
+  flex: 1;
+  height: 1.5rem;
+  border-bottom: 1px solid black;
+}
+
+.collection .wrapper {
+  display: flex;
+  justify-content: space-between;
+  overflow: scroll;
+}
+
+.collection .wrapper:first-child {
+  margin-left: 0;
+}
+
+.collection .picture {
+  height: 400px;
+  margin: 0 15px;
+}
+
+.collection .picture:first-child {
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+.collection .picture:last-child {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.collection .picture {
+}
+
+.collection .bags {
+  display: flex;
+}
+
+.collection .bags .scroll {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.collection .bags .scroll-right {
+}
+.collection .bags .scroll-left {
+}

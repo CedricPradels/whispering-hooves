@@ -1,0 +1,31 @@
+.section {
+  color: gray;
+  font-family: var(--font2);
+  padding: 50px 300px;
+}
+
+.section .wrapper .image {
+  object-fit: cover;
+  flex: 1;
+}
+
+.section .title {
+  color: black;
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 25px;
+}
+
+.section .wrapper {
+  display: flex;
+}
+
+.section .wrapper .text {
+  font-size: 2rem;
+  margin-right: 25px;
+  flex: 2;
+}
+
+.section .wrapper .text .par {
+  margin-bottom: 0.7rem;
+}

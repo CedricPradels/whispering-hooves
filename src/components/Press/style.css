@@ -1,0 +1,27 @@
+.press {
+  padding: 50px 300px;
+  font-family: var(--font2);
+  background-color: peru;
+}
+
+.press .title {
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 35px;
+  display: flex;
+}
+
+.press .title .text {
+  margin: 0 10px;
+}
+
+.press .title .hrule {
+  flex: 1;
+  height: 1.5rem;
+  border-bottom: 1px solid black;
+}
+
+.press .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
